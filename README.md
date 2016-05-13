@@ -1,8 +1,8 @@
 # Big-Brother-Dataset
 Big Brother US and CAN Dataset
-br/
+
 Note: Although there has been a large effort to ensure the validity of the information collected in this dataset, it has been done on a voluntary basis and may contain information that is not fully correct. Due to the nature of the game, some information may be subject to debate, such as whether nominations and votes cast during the "Final Three" week should count towards the total. The dataset will continue to be updated and corrected as new information in received. 
-br/
+
 Categories (in order):
 
 1. USA or Canada season
