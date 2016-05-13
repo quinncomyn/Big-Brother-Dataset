@@ -21,7 +21,7 @@ Categories (in order):
 16. Total days spent in Big Brother house
 17. Total Head of Household wins
 18. Total Power of Veto wins
-19. Total special wins that (could) affect nominations [i.e. Secret Veto's, etc.]
+19. Total special wins that [could] affect nominations (i.e. Secret Veto's, etc.)
 20. Total times nominated (includes non-winners of "Final Three" competitions)
 21. Total votes cast against (including vote cast against one "Final Three" houseguest)
 22. Total votes received from Jury during finals
